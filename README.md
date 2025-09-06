@@ -1,7 +1,7 @@
 # 🎯 Score Tracker dApp on Algorand
 
 ## 📌 Project Description
-My dApp is a **XXX** built on the Algorand blockchain.  
+My dApp is a *Score tracker** built on the Algorand blockchain.  
 It is designed to provide a simple and interactive way to **track scores** securely on-chain.  
 This project is perfect for beginners exploring **Algorand smart contracts** using **TypeScript**.
 
