@@ -14,7 +14,9 @@ The **Score Tracker** dApp allows users to:
 - Reset the score to zero  
 - Read the current score anytime  
 
-All these operations are stored on the **Algorand blockchain**, ensuring **security, immutability, and transparency**.
+All these operations are stored on the **Algorand blockchain**, ensuring **security, immutability,<img width="1470" height="956" alt="Screenshot 2025-09-06 at 3 46 06 PM" src="https://github.com/user-attachments/assets/017b7b2a-4b9c-4644-b9ba-53e38a094866" />
+ and transparency**.
+
 
 ---
 
